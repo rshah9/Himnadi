@@ -1,5 +1,6 @@
 # Himnadi
-Pronounced _him-nadi_ aka Glacier in Nepali
+Pronounced _him-nadi_ aka Glacier in Nepali.
+
 Building a satellite tracking system for climate change. 
 
 Open-source tooling to monitor Himalayan glacial lakes and glacier instability, and to give early warning of Glacial Lake Outburst Floods (GLOFs) and glacier/rock-avalanche-triggered floods in Nepal. The goal is to generate text message to make general public aware of any danger, even few minutes, can save lives.
